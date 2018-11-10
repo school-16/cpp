@@ -8,5 +8,4 @@ If task has only one part, part letter should be skipped.
 E.g. task 27 has only one part and filename for it should be `program_27.cpp`
 
 ## Lessons
-
 [12нче дәрес](/Lesson-12.md)
