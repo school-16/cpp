@@ -24,4 +24,5 @@ E.g. task 27 has only one part and filename for it should be `program_27.cpp`
 - [13нче дәрес](/Lesson-13.md). Массивларың компьютер хәтерендә сакланы үзенчәлекләре.
 - [14нче дәрес](/Lesson-14.md). Функцияләр.
 - [15нче дәрес](/Lesson-15.md). Функцияләр. `insertSort`.
-- 16нче дәрес. Функцияләр. `bubbleSort`.
+- 16нчы дәрес. Функцияләр. `bubbleSort`.
+- 17нче дәрес. Функцияләр. Рекурсия.
